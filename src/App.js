@@ -14,7 +14,8 @@ function App() {
 
       <Routes>
      
-        <Route path="/"/>
+      <Route path='/'  />
+          
        
     
       </Routes>
